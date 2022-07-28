@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-
+# Brain-Tumor-Detection
 
 ### This project aims to identify Brain Tumors in the given MRI scans of brain using Morphological operations.
 
